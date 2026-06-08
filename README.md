@@ -37,6 +37,6 @@ I'm an aspiring Cybersecurity Professional focused on building strong foundation
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aadeshnpatil456-bit"><img src="https://github-readme-stats.vercel.app/api?username=aadeshnpatil456-bit&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aadeshnpatil456-bit's GitHub stats" /></a>
+<a href="http://www.github.com/aadeshnpatil456-bit"><img src="https://github-readme-stats.vercel.app/api?username=aadeshnpatil456-bit&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /></a>
 
-<a href="http://www.github.com/aadeshnpatil456-bit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshnpatil456-bit&stroke=000000&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=000000&currStreakLabel=84cc16&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/aadeshnpatil456-bit"><img src="https://streak-stats.demolab.com?user=aadeshnpatil456-bit&theme=github-dark-blue&hide_border=true" /></a>
